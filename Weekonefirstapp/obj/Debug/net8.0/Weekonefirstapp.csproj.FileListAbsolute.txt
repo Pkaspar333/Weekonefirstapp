@@ -1,0 +1,14 @@
+C:\Users\Kaspar P\source\repos\Weekonefirstapp\Weekonefirstapp\bin\Debug\net8.0\Weekonefirstapp.exe
+C:\Users\Kaspar P\source\repos\Weekonefirstapp\Weekonefirstapp\bin\Debug\net8.0\Weekonefirstapp.deps.json
+C:\Users\Kaspar P\source\repos\Weekonefirstapp\Weekonefirstapp\bin\Debug\net8.0\Weekonefirstapp.runtimeconfig.json
+C:\Users\Kaspar P\source\repos\Weekonefirstapp\Weekonefirstapp\bin\Debug\net8.0\Weekonefirstapp.dll
+C:\Users\Kaspar P\source\repos\Weekonefirstapp\Weekonefirstapp\bin\Debug\net8.0\Weekonefirstapp.pdb
+C:\Users\Kaspar P\source\repos\Weekonefirstapp\Weekonefirstapp\obj\Debug\net8.0\Weekonefirstapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaspar P\source\repos\Weekonefirstapp\Weekonefirstapp\obj\Debug\net8.0\Weekonefirstapp.AssemblyInfoInputs.cache
+C:\Users\Kaspar P\source\repos\Weekonefirstapp\Weekonefirstapp\obj\Debug\net8.0\Weekonefirstapp.AssemblyInfo.cs
+C:\Users\Kaspar P\source\repos\Weekonefirstapp\Weekonefirstapp\obj\Debug\net8.0\Weekonefirstapp.csproj.CoreCompileInputs.cache
+C:\Users\Kaspar P\source\repos\Weekonefirstapp\Weekonefirstapp\obj\Debug\net8.0\Weekonefirstapp.dll
+C:\Users\Kaspar P\source\repos\Weekonefirstapp\Weekonefirstapp\obj\Debug\net8.0\refint\Weekonefirstapp.dll
+C:\Users\Kaspar P\source\repos\Weekonefirstapp\Weekonefirstapp\obj\Debug\net8.0\Weekonefirstapp.pdb
+C:\Users\Kaspar P\source\repos\Weekonefirstapp\Weekonefirstapp\obj\Debug\net8.0\Weekonefirstapp.genruntimeconfig.cache
+C:\Users\Kaspar P\source\repos\Weekonefirstapp\Weekonefirstapp\obj\Debug\net8.0\ref\Weekonefirstapp.dll
